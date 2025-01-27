@@ -1,7 +1,5 @@
 # 🛠️ Checklists e Formulários Estratégicos: Uma Auditoria para a Complexidade Corporativa
 
-![21508cc8e20216b917ba541dd9ef9695](https://github.com/user-attachments/assets/a0ba565c-7356-4e89-959c-df7a2a4ac03f)
-
 ![PORTFOLIO EMPRESAS E PROJETOS](https://github.com/user-attachments/assets/329e37b6-5140-491d-8959-077e9d817658)
 
 
