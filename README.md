@@ -23,6 +23,41 @@ Este repositório é a sua ferramenta de resposta. Ele foi criado para que você
 *   **Critérios Objetivos:** Oferecer recursos para que tanto profissionais quanto empresas possam se avaliar de maneira justa e alinhada. ✅
 *   **Valorização da Experiência:** Criar um ambiente onde a experiência seja valorizada e considerada como um trunfo. 🌟
 
+<!-- Título Principal da Seção do Questionário de Fit Cultural -->
+## Questionário de Fit Cultural & Alinhamento de Carreira 🚀
+
+<!-- Badge Grande Roxa com Link para o Google Forms -->
+[![Questionário Fit Cultural](https://img.shields.io/badge/📝%20Responder%20Questionário-purple?style=for-the-badge&logo=googleforms&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://docs.google.com/forms/d/1uLOFqHkQa5NojVLLKT655fm7_9AzNqMU1QPTmyYXnyY/edit)
+
+<br> <!-- Quebra de linha para espaçamento -->
+
+<!-- Subtítulo Explicativo -->
+Este questionário foi criado para empresas da área de **Dados e TI** que desejam avaliar o alinhamento cultural e de carreira para posições em suas equipes.  O objetivo é garantir um **fit perfeito** e **mútuo** entre as expectativas do profissional e as oportunidades oferecidas pela empresa.
+
+<!-- Ícone Ilustrativo -->
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/handshake.png" width="72" height="72" alt="Fit Cultural Icon"/>
+</p>
+
+<!-- Descrição Detalhada do Questionário -->
+**Sobre o Questionário:**
+
+Este formulário detalhado visa explorar diversas áreas cruciais para o alinhamento entre profissional e empresa, incluindo:
+
+*   **🎯 Objetivos de Carreira e Crescimento:**  Alinhamento das ambições de carreira com as oportunidades de crescimento na empresa.
+*   **📚 Aprendizado e Desenvolvimento:**  Importância do desenvolvimento contínuo e programas de capacitação oferecidos.
+*   **⚡ Impacto e Desafios:** Busca por posições que permitam gerar impacto significativo e enfrentar desafios estimulantes.
+*   **⏳ Planejamento de Carreira:**  Importância de um plano de carreira estruturado e apoio da empresa para atingir objetivos de longo prazo.
+*   **💡 Feedback e Avaliação:**  Valorização de feedback construtivo e avaliações de desempenho para crescimento.
+*   **💰 Reconhecimento e Remuneração:**  Expectativas de reconhecimento justo e sistemas de remuneração transparentes.
+*   **⚖️ Equilíbrio Vida-Trabalho:**  Busca por um ambiente que promova o bem-estar e o equilíbrio entre vida profissional e pessoal.
+*   **➕ Questões Adicionais:**  Perguntas específicas sobre experiência, valorização de qualificações e planos da empresa.
+
+<!-- Instrução para Responder -->
+**Instruções:**
+
+Clique no badge **"📝 Responder Questionário"** acima para acessar o formulário completo no Google Forms.  Responda com sinceridade e atenção para que possamos avaliar o melhor alinhamento possível.
+
 ## 🗂️ Organização Detalhada
 
 Os recursos estão organizados para facilitar sua navegação:
