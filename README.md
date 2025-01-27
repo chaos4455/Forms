@@ -1,12 +1,9 @@
 # 🛠️ Checklists e Formulários Estratégicos: Uma Auditoria para a Complexidade Corporativa
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/62730441/235892007-42ab07a5-4549-44b1-8f69-622c211d1622.png" alt="Checklist Icon" width="150" height="150">
-</p>
+![21508cc8e20216b917ba541dd9ef9695](https://github.com/user-attachments/assets/a0ba565c-7356-4e89-959c-df7a2a4ac03f)
 
-<p align="center">
-    <b>A ferramenta que te empodera a auditar as empresas antes que elas te auditem.</b>
-</p>
+![PORTFOLIO EMPRESAS E PROJETOS](https://github.com/user-attachments/assets/329e37b6-5140-491d-8959-077e9d817658)
+
 
 Este repositório é uma resposta direta às lacunas e desalinhamentos que permeiam o mundo corporativo. 🎯 Não se trata apenas de checklists e formulários, mas sim de uma ferramenta de empoderamento para profissionais que desejam transparência, alinhamento e respeito em suas jornadas. 🚀
 
