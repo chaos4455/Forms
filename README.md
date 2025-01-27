@@ -69,14 +69,6 @@ Os recursos estão organizados para facilitar sua navegação:
 5.  **Autoavaliação e Maturidade** 🧠
 6.  **Planejamento e Otimização** 📈
 
-## 🛠️ Como Usar de Forma Eficaz
-
-1.  Explore as categorias para encontrar o recurso mais adequado às suas necessidades.
-2.  Clique no link para acessar o formulário diretamente no Google Forms.
-3.  Utilize os formulários para coletar informações valiosas, realizar avaliações precisas e preparar suas entrevistas.
-4.  Adapte e personalize os recursos para atender às suas necessidades específicas, criando seus próprios critérios e perguntas.
-5.  Use as informações coletadas para tomar decisões estratégicas e bem informadas.
-
 ## 📋 Recursos e Badges Específicas
 
 ### 1. Auditorias e Avaliações 🔍
