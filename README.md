@@ -2,7 +2,7 @@
 
 ![PORTFOLIO EMPRESAS E PROJETOS](https://github.com/user-attachments/assets/329e37b6-5140-491d-8959-077e9d817658)
 
-<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/99e831e3-6098-4911-a1a1-4c68666cbd08" />
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/68372194-1f99-4c1c-b7c7-8d85bba0f18d" />
 
 
 Este repositório é uma resposta direta às lacunas e desalinhamentos que permeiam o mundo corporativo. 🎯 Não se trata apenas de checklists e formulários, mas sim de uma ferramenta de empoderamento para profissionais que desejam transparência, alinhamento e respeito em suas jornadas. 🚀
